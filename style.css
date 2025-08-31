@@ -78,6 +78,10 @@ button:hover {
     text-decoration: none;
 }
 
+#bookmark-list li a:hover {
+    text-decoration: underline;
+}
+
 #bookmark-list button {
     background-color: #e74c3c;
     padding: 5px 10px;
